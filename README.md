@@ -1,4 +1,4 @@
-## Sejam Bem-Vindo ao meu Githug 👋
+## Sejam Bem-Vindo ao meu Github 👋
 
 
 
