@@ -3,7 +3,11 @@
 ### Hello, Devs!!
 #### Me chamo Victor Hugo!
 
-[imagem programador](https://img.freepik.com/fotos-gratis/pessoa-a-jogar-jogos-de-video-3d-no-dispositivo_23-2151005751.jpg)
+![imagem programador](https://png.pngtree.com/png-clipart/20230914/original/pngtree-computer-programmer-png-image_12147261.png)
+
+
+
+
 
 <!--
 **victorhuggo27/victorhuggo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
