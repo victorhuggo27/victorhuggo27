@@ -3,9 +3,9 @@
 ### Hello, Devs!!
 #### Me chamo Victor Hugo!
 
-![imagem programador](https://png.pngtree.com/png-clipart/20230914/original/pngtree-computer-programmer-png-image_12147261.png)
 
 
+<img src="https://img.freepik.com/fotos-gratis/belo-espaco-de-escritorio-em-estilo-de-desenho-animado_23-2151043334.jpg?t=st=1716991177~exp=1716991777~hmac=f80653d8bd66f0b6529b8d25df5407d7d907232db6c708e3a20547bd9696e3f3">
 
 
 
